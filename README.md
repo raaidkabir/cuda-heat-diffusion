@@ -20,4 +20,12 @@ This CUDA C++ program simulates heat diffusion and visualizes the results. It us
 `./heat_simulation`
 
 ## Output
-The program outputs a series of PNG images visualizing the heat diffusion process.
+The program outputs a series of PNG images visualizing the heat diffusion process.\
+
+![](./images/frame_0000.png)\
+Initial Frame of the Simulation
+
+
+
+![](./images/frame_0100.png)\
+100th Frame of the Simulation
